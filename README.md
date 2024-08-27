@@ -1,7 +1,6 @@
 # report_cort
-<<<<<<< HEAD
-
-농협하나로 마트관련 소송의 건
+농협하나로 마트관련 소송의 건입니다
+다운로드후 터미널에서 flutter pub get 명령을 실행하시고 flutter run 명령을 실행하시면 됩니다 감사합니다
 
 ## Getting Started
 
